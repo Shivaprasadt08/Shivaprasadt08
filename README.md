@@ -7,7 +7,8 @@
 - **Passion for Innovation**: Dedicated to exploring new technologies and applying them in innovative ways to create efficient, scalable solutions.
 - **Technical Skill Set**: Knowledgeable in a variety of tools and technologies, including database management, cloud computing, and AI-driven systems.
 - **Team Player**: Strong collaborative skills, having worked on multiple projects both individually and as part of a team.
-- **Career Goals**: Aiming to further enhance my technical skills and pursue a career in software development or AI-driven applications.
+- **Career Goals**: Aiming to further enhance my technical skills and pursue a career in software development.
+- 
 
   
 # 💻 Tech Stack:
