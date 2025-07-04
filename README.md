@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Shivaprasad Tigadi
 
 
-- **B.E Graduate in Computer Science and Engineering, with a strong academic background and practical exposure.
+- B.E Graduate in Computer Science and Engineering, with a strong academic background and practical exposure.
 - **Problem-Solving Enthusiast**: Skilled in solving complex computational problems with a focus on algorithmic thinking and optimization techniques.
 - **Web Development Expertise**: Experienced in front-end and back-end web development, with proficiency in HTML, CSS, JavaScript, and frameworks like Django and React, Express js.
 - **Passion for Innovation**: Dedicated to exploring new technologies and applying them in innovative ways to create efficient, scalable solutions.
