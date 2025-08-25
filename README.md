@@ -1,13 +1,25 @@
 ## 👋 Hi, I'm Shivaprasad Tigadi
 
+🎯 Associate Software Engineer | Problem-Solver | Web Developer
 
-- B.E Graduate in Computer Science and Engineering, with a strong academic background and practical exposure.
-- **Problem-Solving Enthusiast**: Skilled in solving complex computational problems with a focus on algorithmic thinking and optimization techniques.
-- **Web Development Expertise**: Experienced in front-end and back-end web development, with proficiency in HTML, CSS, JavaScript, and frameworks like Django and React,Spring and Spring boot.
-- **Passion for Innovation**: Dedicated to exploring new technologies and applying them in innovative ways to create efficient, scalable solutions.
-- **Technical Skill Set**: Knowledgeable in a variety of tools and technologies, including database management, cloud computing, and AI-driven systems.
-- **Team Player**: Strong collaborative skills, having worked on multiple projects both individually and as part of a team.
-- **Career Goals**: Aiming to further enhance my technical skills and pursue a career in software development. 
+📍 Belagavi, India
+
+
+🚀 About Me
+
+🎓 B.E Graduate in Computer Science and Engineering with a strong academic foundation and practical project experience.
+
+💼 Currently working as an Associate Software Engineer, applying my skills to build scalable and efficient software solutions.
+
+🧩 Problem-Solving Enthusiast: Passionate about algorithmic thinking, optimization techniques, and tackling complex challenges.
+
+💻 Web Development Expertise: Skilled in Front-end (HTML, CSS, JavaScript, React) and Back-end (Spring boot, Node.js) development.
+
+☁️ Experienced in Database Management and AI-driven systems.
+
+🤝 Team Player: Proven ability to collaborate effectively in projects and deliver impactful results.
+
+🌱 Always exploring new technologies to stay ahead in the software industry.
 
   
 # 💻 Tech Stack:
