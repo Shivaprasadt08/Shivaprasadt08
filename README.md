@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Shivaprasad Tigadi
 
-🎯 Associate Software Engineer | Problem-Solver | Web Developer
+🎯 Associate Software Engineer | Problem-Solver | Web Developer | SQL Developer
 
 📍 Belagavi, India
 
