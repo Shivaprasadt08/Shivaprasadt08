@@ -17,8 +17,6 @@
 
 ☁️ Experienced in Database Management and AI-driven systems.
 
-🤝 Team Player: Proven ability to collaborate effectively in projects and deliver impactful results.
-
 🌱 Always exploring new technologies to stay ahead in the software industry.
 
   
