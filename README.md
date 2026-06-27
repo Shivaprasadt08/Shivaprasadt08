@@ -9,7 +9,7 @@
 
 🎓 B.E Graduate in Computer Science and Engineering with a strong academic foundation and practical project experience.
 
-💼 Currently working as an Associate Software Engineer at [enfs.com](https://enfs.com), applying my skills to build scalable and efficient software solutions.
+💼 Currently working as an Associate Software Engineer @[Enfs](https://enfs.com), applying my skills to build scalable and efficient software solutions.
 
 🧩 Problem-Solving Enthusiast: Passionate about algorithmic thinking, optimization techniques, and tackling complex challenges.
 
