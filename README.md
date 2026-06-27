@@ -2,14 +2,14 @@
 
 🎯 Associate Software Engineer | Problem-Solver | Web Developer | SQL Developer
 
-📍 Belagavi, India
+📍 Belagavi, Karnataka, India
 
 
 🚀 About Me
 
 🎓 B.E Graduate in Computer Science and Engineering with a strong academic foundation and practical project experience.
 
-💼 Currently working as an Associate Software Engineer, applying my skills to build scalable and efficient software solutions.
+💼 Currently working as an Associate Software Engineer at [enfs.com](https://enfs.com), applying my skills to build scalable and efficient software solutions.
 
 🧩 Problem-Solving Enthusiast: Passionate about algorithmic thinking, optimization techniques, and tackling complex challenges.
 
